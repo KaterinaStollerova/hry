@@ -63,5 +63,3 @@ def vez():
     else:
         print("Neplatná volba, díky kouzlu jsi vyvolal temnotu. Hra končí.")
         return -3
-    
-vez()
